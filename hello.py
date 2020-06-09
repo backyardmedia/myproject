@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 # My pyhton project
 print("hello, world!");
-x = 2
+
+a=5
+print(a)
+x=8
+
